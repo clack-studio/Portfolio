@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: t0dorakis/clack-studio
+  repo: clack-studio/Portfolio
   branch: main
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
