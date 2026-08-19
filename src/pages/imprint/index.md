@@ -10,6 +10,12 @@ In accordance with § 5 TMG and § 55 RStV, the operator of this website and the
 \
 Clack Studio e.K.\
 Vertreten durch: Mana Zarindast\
+Reichenberger Strasse 157\
+10999 Berlin\
+Germany
+
+\
+Creative Studio & Office\
 Invalidenstraße 102\
 10115 Berlin\
 Germany
