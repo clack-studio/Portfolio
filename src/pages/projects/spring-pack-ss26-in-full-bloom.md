@@ -5,7 +5,7 @@ client: birkenstock
 date: 2026-08-19T08:20:04.770Z
 featuredproject: true
 featuredimage: /img/gl-paris-03.png
-centeredFirstImage: true
+centeredFirstImage: false
 centeredFirstImageMobile: false
 centeredLastImage: false
 centeredLastImageMobile: false
@@ -30,6 +30,6 @@ section:
     centeredFirst: false
     centeredFirstMobile: false
 tags:
-  - concept & design
+  - retail concept incl. rollout guidelines for pan-European adaptation
 lastImage: /img/gl-paris-04.png
 ---
