@@ -30,6 +30,6 @@ section:
     centeredFirst: false
     centeredFirstMobile: false
 tags:
-  - retail design concept & guidelines (6 European locations)
+  - retail design concept & guidelines for 6 European locations
 lastImage: /img/gl-paris-04.png
 ---
