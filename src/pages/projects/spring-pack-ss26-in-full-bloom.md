@@ -30,6 +30,6 @@ section:
     centeredFirst: false
     centeredFirstMobile: false
 tags:
-  - retail concept incl. rollout guidelines for pan-European adaptation
+  - retail design concept & guidelines (6 European locations)
 lastImage: /img/gl-paris-04.png
 ---
