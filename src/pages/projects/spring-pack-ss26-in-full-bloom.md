@@ -6,12 +6,12 @@ date: 2026-08-19T08:20:04.770Z
 featuredproject: true
 featuredimage: /img/gl-paris-03.png
 centeredFirstImage: true
-centeredFirstImageMobile: true
+centeredFirstImageMobile: false
 centeredLastImage: false
 centeredLastImageMobile: false
-featuredVideo: /img/gl-paris-animation.mp4
+featuredVideo: ""
 section:
-  - horizontal: false
+  - horizontal: true
     src: /img/gl-paris-02.png
     left: false
     centeredSecond: false
@@ -20,7 +20,7 @@ section:
     altText: ""
     centeredFirst: false
     centeredFirstMobile: false
-  - horizontal: false
+  - horizontal: true
     src: /img/gl-paris-01.png
     left: false
     centeredSecond: false
