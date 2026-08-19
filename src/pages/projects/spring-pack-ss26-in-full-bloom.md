@@ -6,7 +6,7 @@ date: 2026-08-19T08:20:04.770Z
 featuredproject: true
 featuredimage: /img/gl-paris-03.png
 centeredFirstImage: false
-centeredFirstImageMobile: false
+centeredFirstImageMobile: true
 centeredLastImage: false
 centeredLastImageMobile: false
 featuredVideo: ""
