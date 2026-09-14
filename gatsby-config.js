@@ -3,7 +3,7 @@ module.exports = {
     title: `clack studio`,
     siteUrl: `https://www.clackstudio.com`,
     description:
-      "clack studio is a berlin based creative agency founded by a female friends duo in 2021. sharing the same vision and being linked by the belief that anything is possible, the studio develops concepts that reflect the current zeitgeist, brings impactful stories to life and creates experiences that resonate and push boundaries.",
+      "clack studio is a Berlin-based creative agency, founded in 2021. Rooted in the belief that ideas shape culture, we craft concepts that are both contemporary and pioneering. With a sharp eye on the now and a vision for what’s next, we blend creativity with strategy to deliver results that resonate, inspire and leave a lasting impression.",
     image: "/og-image.jpg", // Path to the image placed in the 'static' folder, in the project's root directory.
   },
   plugins: [
